@@ -1,3 +1,3 @@
 # Apex Companies
 
-## [Check out our website] (https://www.apexwarehousesystems.com/)
+## Check out our [website](https://www.apexwarehousesystems.com/)
